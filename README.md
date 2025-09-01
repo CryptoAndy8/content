@@ -1,4 +1,4 @@
-# ppkrypto-content
+# content
 
 Purpose
 - Швидко збирати TG пости однаковим стилем.
